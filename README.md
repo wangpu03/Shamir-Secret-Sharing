@@ -1,1 +1,2 @@
-# Shamir-Secret-Sharing
+# Shamir-Secret-Sharing 
+### implement in matlab @wp
